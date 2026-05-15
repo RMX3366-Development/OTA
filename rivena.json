@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "ermyltsor",
+            "oem": "realme",
+            "device": "真我GT 大师探索版",
+            "filename": "crDroidAndroid-16.0-20260516-rivena-v12.10.zip",
+            "download": "https://sourceforge.net/projects/rmx3366-custom-roms/files/crDroid/16/2026-5-16/crDroidAndroid-16.0-20260516-rivena-v12.10.zip/download",
+            "timestamp": 1778862338,
+            "md5": "70a1d79ee9d02f410923188eb857aa6a",
+            "sha256": "7755bebbdcc3cef953e8b26f480c83d1ceb55d8e90ecfb9488b9b87bba63351e",
+            "size": 2285034993,
+            "version": "12.10",
+            "buildtype": "Unofficial",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://sourceforge.net/projects/rmx3366-custom-roms/files/crDroid/16/2026-5-16/recovery.img/download",
+            "paypal": "",
+            "telegram": "",
+            "dt": "https://github.com/ermyltsor/android_device_realme_rivena",
+            "common-dt": "https://github.com/RMX3366-Development/android_device_oppo_sm8250-common",
+            "kernel": "https://github.com/RMX3366-Development/android_kernel_oppo_sm8250"
+        }
+    ]
+}
